@@ -24,3 +24,4 @@ app.get('/data', async (req, res) => {
 app.listen(port, () => {
   console.log(`ChatGPT app listening on port ${port} AND That is present at http://localhost:${port}`)
 })
+{"openAiApiKey":"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","conversationBackground":"","":"","packageName":"com.wChatAI_17067536","name":"Chat AI","template":"chatAi","icon":"uploaded_data\/icon.png","themeColors":{"colorPrimary":"#607d8b","colorPrimaryDark":"#37474f","colorAccent":"#78909c"}}
